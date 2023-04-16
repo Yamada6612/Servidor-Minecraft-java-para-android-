@@ -3,7 +3,7 @@ sleep 2
 apt update
 apt upgrade
 pkg install ruby
-
+gem install lolcat
 mkdir MC-1.19.4
 cd MC-1.19.4
 sleep 5
