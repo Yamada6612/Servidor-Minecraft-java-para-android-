@@ -2,7 +2,7 @@ echo "Preparando para instalar os recursos para o servidor para o minecraft 1.19
 sleep 2
 apt update
 apt upgrade
-apt install lolcat
+pip install lolcat
 mkdir MC-1.19.4
 cd MC-1.19.4
 sleep 5
