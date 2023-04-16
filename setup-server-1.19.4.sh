@@ -2,6 +2,7 @@ echo "Preparando para instalar os recursos para o servidor para o minecraft 1.19
 sleep 2
 apt update
 apt upgrade
+pkg install ruby
 
 mkdir MC-1.19.4
 cd MC-1.19.4
